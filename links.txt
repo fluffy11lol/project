@@ -1,1 +1,9 @@
 https://ru.wikipedia.org/wiki/%D0%A0%D0%B0%D0%B1%D0%BE%D1%87%D0%B5%D0%B5_%D0%BC%D0%BD%D0%BE%D0%B6%D0%B5%D1%81%D1%82%D0%B2%D0%BE
+
+Cacheman  https://www.outertech.com/en/how-to-speed-up-your-computer
+Compact-RAM-Cleaner https://github.com/qualcosa/Compact-RAM-Cleaner
+Mem Reduct https://www.henrypp.org/product/memreduct
+Memory Cleaner https://www.koshyjohn.com/software/memclean/
+MemPlus https://codedead.com/software/memplus
+WinMemoryCleaner https://github.com/IgorMundstein/WinMemoryCleaner/
+WiseCleaner https://www.wisecleaner.com/wise-memory-optimizer.html
